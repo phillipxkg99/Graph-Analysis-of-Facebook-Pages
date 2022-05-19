@@ -1,0 +1,17 @@
+#parrishAvailability{
+    position: absolute;
+    left: 100px;
+}
+
+#parrishFood{
+    position: absolute;
+    left: 100px;
+    top: 400px;
+}
+
+#parrishVolume{
+    position: absolute;
+    left: 100px;
+    top: 700px;
+}
+
